@@ -1,0 +1,3 @@
+name: Pulum.Velero.Azure
+runtime: dotnet
+description: A minimal C# Pulumi program
